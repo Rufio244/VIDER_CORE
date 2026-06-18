@@ -1,7 +1,4 @@
-{
-    "knowledge": [],
-    "projects": []
-}
+
 import json
 
 
